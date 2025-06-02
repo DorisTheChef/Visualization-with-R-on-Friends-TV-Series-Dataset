@@ -3,6 +3,7 @@ friends <- read.csv("friends.csv", sep = ",", header = TRUE)
 friends_info <- read.csv("friends_info.csv", sep = ",", header = TRUE)
 friends_emotions <- read.csv("friends_emotions.csv", sep = ",", header = TRUE)
 friends_test <- 1
+friends_test <- 2
 
 #load tidyverse library for better structure
 library(tidyverse)
